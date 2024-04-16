@@ -2,12 +2,16 @@ name: 🏷 PR size labeler
 
 on: [pull_request]
 
+permissions:
+  pull-requests: write
+  issues: write
+
 jobs:
   pr-labeler:
     runs-on: ubuntu-latest
     name: Label the PR size
     steps:
-      - uses: BedrockStreaming/pr-size-labeler@v2.0.0
+      - uses: BedrockStreaming/pr-size-labeler@v1
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           exclude_files: .lock
