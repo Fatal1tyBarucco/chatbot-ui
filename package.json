@@ -71,7 +71,7 @@
     "date-fns": "^3.6.0",
     "endent": "^2.1.0",
     "gpt-tokenizer": "^2.1.2",
-    "i18next": "^23.11.1",
+    "i18next": "^23.11.3",
     "i18next-resources-to-backend": "^1.2.1",
     "langchain": "^0.1.36",
     "lucide-react": "^0.373.0",
