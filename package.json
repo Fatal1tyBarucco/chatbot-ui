@@ -28,7 +28,7 @@
     "@anthropic-ai/sdk": "^0.25.2",
     "@apidevtools/json-schema-ref-parser": "^11.7.0",
     "@azure/openai": "^2.0.0-beta.1",
-    "@google/generative-ai": "^0.16.0",
+    "@google/generative-ai": "^0.17.0",
     "@hookform/resolvers": "^3.9.0",
     "@mistralai/mistralai": "^1.0.2",
     "@radix-ui/react-accordion": "^1.2.0",
