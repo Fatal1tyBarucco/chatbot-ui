@@ -100,7 +100,7 @@
     "@next/bundle-analyzer": "^14.2.7",
     "@tailwindcss/typography": "^0.5.15",
     "@testing-library/jest-dom": "^6.5.0",
-    "@testing-library/react": "^16.0.0",
+    "@testing-library/react": "^16.0.1",
     "@types/jest": "^29.5.12",
     "@types/node": "^22",
     "@types/pdf-parse": "^1.1.4",
