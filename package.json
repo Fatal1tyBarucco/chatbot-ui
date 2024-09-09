@@ -27,7 +27,7 @@
   "dependencies": {
     "@anthropic-ai/sdk": "^0.27.3",
     "@apidevtools/json-schema-ref-parser": "^11.7.0",
-    "@azure/openai": "^2.0.0-beta.1",
+    "@azure/openai": "^2.0.0-beta.2",
     "@google/generative-ai": "^0.17.1",
     "@hookform/resolvers": "^3.9.0",
     "@mistralai/mistralai": "^1.0.4",
