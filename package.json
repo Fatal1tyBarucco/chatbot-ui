@@ -68,7 +68,7 @@
     "class-variance-authority": "^0.7.0",
     "cmdk": "^1.0.0",
     "d3-dsv": "^3.0.1",
-    "date-fns": "^3.6.0",
+    "date-fns": "^4.0.0",
     "endent": "^2.1.0",
     "gpt-tokenizer": "^2.2.1",
     "i18next": "^23.15.1",
