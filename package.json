@@ -83,7 +83,7 @@
     "openai": "^4.61.1",
     "pdf-parse": "^1.1.1",
     "react": "^18",
-    "react-day-picker": "^9.0.9",
+    "react-day-picker": "^9.1.0",
     "react-dom": "^18",
     "react-hook-form": "^7.53.0",
     "react-i18next": "^15.0.2",
