@@ -82,7 +82,7 @@
     "i18next": "^23.16.0",
     "i18next-resources-to-backend": "^1.2.1",
     "langchain": "^0.3.2",
-    "lucide-react": "^0.452.0",
+    "lucide-react": "^0.474.0",
     "mammoth": "^1.8.0",
     "next": "^14.2.15",
     "next-i18n-router": "^5.5.1",
